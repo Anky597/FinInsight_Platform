@@ -3,6 +3,8 @@
 
 A sophisticated financial analysis platform that combines machine learning with user-friendly interfaces to provide loan eligibility predictions and customer segmentation insights.
 
+Backend Repo : - https://github.com/Anky597/Fin_pltform_back
+
 ## Features
 
 ### 1. Loan Eligibility Checker
