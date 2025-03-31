@@ -56,3 +56,13 @@ A sophisticated financial analysis platform that combines machine learning with 
 ```bash
 npm install
 ```
+
+project/
+├── src/
+│   ├── components/    # Reusable UI components
+│   ├── context/      # React context providers
+│   ├── firebase/     # Firebase configuration
+│   ├── pages/        # Main application pages
+│   └── App.tsx       # Root component
+├── public/           # Static assets
+└── config files      # Various configuration files
