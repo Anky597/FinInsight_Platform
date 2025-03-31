@@ -56,7 +56,7 @@ A sophisticated financial analysis platform that combines machine learning with 
 ```bash
 npm install
 ```
-
+```
 project/
 ├── src/
 │   ├── components/    # Reusable UI components
@@ -66,3 +66,4 @@ project/
 │   └── App.tsx       # Root component
 ├── public/           # Static assets
 └── config files      # Various configuration files
+```
